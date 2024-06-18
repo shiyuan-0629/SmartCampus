@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+call me = {
+    name:xiaopan
+    email:2605748439@qq.com
+}
